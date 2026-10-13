@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Colab / IDE
+.config/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dataset and model
+data/
+model/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Generated results
+results/*.csv
