@@ -15,6 +15,8 @@
 
 ## 실행 방법
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasd5/KLUE-BERT-Movie-Sentiment/blob/main/KLUE_BERT_movie.ipynb)
+
 1. Google Colab에서 `KLUE_BERT_movie.ipynb`를 엽니다.
 2. **런타임 → 런타임 유형 변경 → GPU**를 선택합니다.
 3. 필요한 패키지를 설치합니다(노트북 실행 환경에 맞춰 조정).
